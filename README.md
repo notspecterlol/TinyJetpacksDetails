@@ -1,3 +1,3 @@
 # TINY JETPACKS DETAILS
 
-Im currently adding the uhd textures
+A texture pack that makes the Jetpacks a bit more better
